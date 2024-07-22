@@ -1,0 +1,2 @@
+Produit [id=1, nom=Chemise, prix=26000.0, quantité=24], garantie=2030 ans
+Produit [id=1, nom=Pantalon, prix=67000.0, quantité=45], taille=3
